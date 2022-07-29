@@ -21,7 +21,7 @@
   <img align="center" alt="Kesse-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kesse-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kesse-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Kesse-pic" height="250" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/930255652046110781/950208398367027210/Design_sem_nome.gif" />
+  <img align="right" alt="Kesse-pic" height="200" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/930255652046110781/950208398367027210/Design_sem_nome.gif" />
 
 </div>
   
