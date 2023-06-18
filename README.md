@@ -7,6 +7,7 @@
 - 💻 Estou estudando e codando com React TS
 - ✒ Estou estudando design gráfico quando posso (acho incrível)
 - 📌 Pronomes: Ela/Dela
+- 📑 Meu currículo: https://drive.google.com/file/d/1CMSecKPvoZFBvpMgAB6JntOA2mBkrwv6/view?usp=drive_link
 
 <div align="center">
   <a href="https://github.com/VivianKesse
