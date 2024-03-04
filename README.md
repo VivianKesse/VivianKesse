@@ -2,10 +2,10 @@
 
 
 
-- 👩🏾‍💻 Atualmente, procuro trabalhar com front-end
+- 👩🏾‍💻 Atualmente, trabalho como front-end
 - 📚 Eu curso Ciência da Computação
-- 💻 Estou estudando e codando com React TS
 - ✒ Estou estudando design gráfico quando posso (acho incrível)
+- ☕ É sempre sim pra música, livros, café ou cerveja gelada (e oportunidade de aprender :3 )
 - 📌 Pronomes: Ela/Dela
 - 📑 Meu currículo: https://www.canva.com/design/DAFPfW8GgkY/lQsbx3iz485uVpyx9PamJg/view?utm_content=DAFPfW8GgkY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
