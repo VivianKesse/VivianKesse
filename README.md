@@ -1,4 +1,4 @@
-### Opaa! Eu sou a Vivian Kesse 🌻
+### Olá! Eu me chamo Vivian Kesse 🌻
 
 
 
